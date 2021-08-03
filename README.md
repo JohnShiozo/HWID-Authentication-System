@@ -13,4 +13,4 @@ This is a simple mod which can prevent unwanted users from running your mod by o
 The HWID authentication system is not designed for a specific version of minecraft forge, you can use it in any minecraft forge version.
 
 ## Credits
-Thank you [CPacket](https://github.com/zzurio/) for the original [HWID-Authentication-System] (https://github.com/zzurio/HWID-Authentication-System) code.
+Thank you [CPacket](https://github.com/zzurio/) for the original [HWID-Authentication-System](https://github.com/zzurio/HWID-Authentication-System/) code.
