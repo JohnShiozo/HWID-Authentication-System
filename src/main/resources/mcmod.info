@@ -7,8 +7,8 @@
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["CPacketCustomPayload"],
-  "credits": "The Forge Developers.",
+  "authorList": ["joaoshiozo"],
+  "credits": "The Forge Developers and CPacketCustomPayload",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []

@@ -1,4 +1,4 @@
-# HWID-Authentication-System
+# Kotlin-HWID-Authentication-System
 A simple HWID authentication system for your minecraft mod.
 
 This is a simple mod which can prevent unwanted users from running your mod by only allowing specific HWIDs to be able to run the mod.
@@ -10,4 +10,7 @@ This is a simple mod which can prevent unwanted users from running your mod by o
 - In your main mod class, add the function `HWIDManager.check();` on the `FMLPreInitializationEvent` as we want to check the user's HWID before doing anything. Refer to the main class `HWIDAuthMod` to see an example of how it's done.
 
 ## Versions
-The HWID authentication system is not designed for a specific version of minecraft forge, you can use it in any minecraft forge version. 
+The HWID authentication system is not designed for a specific version of minecraft forge, you can use it in any minecraft forge version.
+
+## Credits
+Thank you [CPacket](https://github.com/zzurio/) for the original [HWID-Authentication-System] (https://github.com/zzurio/HWID-Authentication-System) code.
